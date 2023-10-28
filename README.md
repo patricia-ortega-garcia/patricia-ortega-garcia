@@ -9,17 +9,18 @@ Welcome to my GitHub repository! I am a Computer Engineering student at the Univ
 
 - Python
 - Java
+- HTML / CSS
+- JavaScript
 - SQL
 - MySQL
-- JavaScript
 - Ada
 - R
 
 
 ## IDE 🛠️
 
-- Pycharm
 - Visual Studio Code
+- Pycharm
 - Eclipse
 
 
