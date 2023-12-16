@@ -11,10 +11,7 @@ Welcome to my GitHub repository! I am a Computer Engineering student at the Univ
 - Java
 - HTML / CSS
 - JavaScript
-- SQL
 - MySQL
-- Ada
-- R
 
 
 ## IDE 🛠️
